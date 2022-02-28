@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Jimmy",
+    "lastName": "Shen",
+    "dateOfBirth": "1995-10-01T00:00:00.000Z",
+    "startDate": "2021-08-10T00:00:00.000Z",
+    "gender": "M",
+    "ordinaryEarningsRateID": "01d32040-1f2a-4486-8182-3767dbd20322",
+    "employeeID": "fc316aea-1d58-4ef2-a1f1-091175343ae1",
+    "status": "ACTIVE",
+    "updatedDateUTC": "2022-02-28T11:30:28.000Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "SShheenn",
+    "dateOfBirth": "1995-10-01T00:00:00.000Z",
+    "startDate": "2021-06-08T00:00:00.000Z",
+    "ordinaryEarningsRateID": "01d32040-1f2a-4486-8182-3767dbd20322",
+    "employeeID": "4ba85e40-2a2b-4ef4-a9b2-1614919a7645",
+    "status": "ACTIVE",
+    "updatedDateUTC": "2022-02-28T12:16:46.000Z"
+  }
+]
